@@ -1,0 +1,57 @@
+.main {
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 650px;
+    margin: auto;
+    border-radius: 30px;
+    border: 2px solid purple;
+}
+
+body {
+    background: url("images/background.jpg") no-repeat center fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: Montserrat;
+    letter-spacing: 0.7px;
+    font-size: large;
+}
+
+div.two {
+    background-color: purple;
+    color: white;
+    padding: 30px;
+}
+
+img {
+    width: 60px;
+    padding: 5px;
+}
+
+img.Logo {
+    width: 450px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 8px 20px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+}
+
+hr {
+    width: 300px;
+}
+
+a :hover {
+    color: yellow;
+    text-decoration: underline;
+}
